@@ -43,8 +43,7 @@ class MainActivity : Activity() {
     internal var mLoaded = false
 
     // set your custom url here
-    internal var URL = "https://payfuryou.googrocery.com/
-    "
+    internal var URL = "https://payfuryou.googrocery.com/"
 
     //for attach files
     private var mCameraPhotoPath: String? = null
